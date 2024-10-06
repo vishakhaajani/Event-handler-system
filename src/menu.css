@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+.card{
+    padding: 20px;
+    margin-bottom: 50px;
+    transition: all 1s;
+    border-radius: 20px;
+}
+
+.card:hover{
+    cursor: pointer;
+    border-radius: 30px;
+}
+
